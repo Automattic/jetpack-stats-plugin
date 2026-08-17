@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial scaffold for the standalone Jetpack Stats plugin.
+
+### Changed
+- Document the WordPress.com Tracks service and link to the plugin source code in the readme.
