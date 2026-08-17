@@ -14,3 +14,4 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Document the WordPress.com Tracks service and link to the plugin source code in the readme.
+- Link the Stats packages and the Odyssey Stats dashboard source in the readme.
