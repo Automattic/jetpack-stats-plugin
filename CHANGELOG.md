@@ -18,3 +18,6 @@ This is an alpha version! The changes listed here are not final.
 - Link the Stats packages and the Odyssey Stats dashboard source in the readme.
 - Show the Stats dashboard on a site with no connection instead of redirecting to My Jetpack.
 - Tested up to WordPress 7.1.
+
+### Fixed
+- My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
