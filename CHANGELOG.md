@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Link the Stats packages and the Odyssey Stats dashboard source in the readme.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Show the Stats dashboard on a site with no connection instead of redirecting to My Jetpack.
+- Stop bundling the Blaze package, which nothing in the plugin starts.
 - Tested up to WordPress 7.1.
 
 ### Fixed
