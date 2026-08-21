@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial scaffold for the standalone Jetpack Stats plugin.
 
 ### Changed
+- Document the WordPress.com connection, Sync and daily site report in the readme.
 - Document the WordPress.com Tracks service and link to the plugin source code in the readme.
 - General: Update minimum WordPress version to 7.0.
 - Link the Stats packages and the Odyssey Stats dashboard source in the readme.
