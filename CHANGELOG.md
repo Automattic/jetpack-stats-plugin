@@ -23,4 +23,5 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 7.1.
 
 ### Fixed
+- Charts: draw labels at the design system's font weight and size.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
