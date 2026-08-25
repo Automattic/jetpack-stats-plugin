@@ -24,4 +24,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Charts: draw labels at the design system's font weight and size.
+- Keep excluding a visitor IP address from tracking when it is written in another form.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
+- Report the same visitor address the rest of Jetpack resolves on sites with a trusted IP header configured.
+- Stop recording a malformed visitor IP address.
