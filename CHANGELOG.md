@@ -22,6 +22,9 @@ This is an alpha version! The changes listed here are not final.
 - Stop bundling the Blaze package, which nothing in the plugin starts.
 - Tested up to WordPress 7.1.
 
+### Removed
+- Updated PHP version requirements to PHP 7.4 or newer.
+
 ### Fixed
 - Charts: draw labels at the design system's font weight and size.
 - Keep excluding a visitor IP address from tracking when it is written in another form.
