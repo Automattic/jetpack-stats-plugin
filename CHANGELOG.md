@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Changed
+- Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.
 - Document the WordPress.com connection, Sync and daily site report in the readme.
 - Document the WordPress.com Tracks service and link to the plugin source code in the readme.
