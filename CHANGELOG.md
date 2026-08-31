@@ -31,6 +31,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Charts: draw labels at the design system's font weight and size.
 - Fix access for users whose allowed role is not their first assigned role.
+- JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep excluding a visitor IP address from tracking when it is written in another form.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
