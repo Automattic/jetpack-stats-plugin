@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
+- Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
 - Document the WordPress.com connection, Sync and daily site report in the readme.
 - Document the WordPress.com Tracks service and link to the plugin source code in the readme.
 - General: Update minimum WordPress version to 7.0.
