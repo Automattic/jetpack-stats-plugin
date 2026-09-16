@@ -40,6 +40,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Hide connection error notices from users who cannot fix the connection.
 - Fix access for users whose allowed role is not their first assigned role.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
+- Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - Keep excluding a visitor IP address from tracking when it is written in another form.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
