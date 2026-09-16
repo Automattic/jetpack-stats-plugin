@@ -48,5 +48,6 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 - Report the same visitor address the rest of Jetpack resolves on sites with a trusted IP header configured.
+- Return focus to bar charts after pressing Escape, and select the bar under the pointer for tooltips and pointer callbacks.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop recording a malformed visitor IP address.
