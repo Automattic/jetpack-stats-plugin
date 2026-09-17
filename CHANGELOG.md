@@ -44,6 +44,7 @@ This is an alpha version! The changes listed here are not final.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - Keep excluding a visitor IP address from tracking when it is written in another form.
 - My Jetpack: Fix the dashboard failing to load on WordPress.com-hosted sites.
+- My Jetpack: Keep keyboard focus on the first or last data point when an arrow key reaches the end of the stats chart, return focus to the chart when Escape closes a tooltip, stop a focused chart from swallowing keys it does not use such as Page Down, and close the tooltip when the series it describes is hidden.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
