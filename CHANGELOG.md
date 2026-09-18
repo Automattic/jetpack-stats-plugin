@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Document the WordPress.com connection, Sync and daily site report in the readme.
 - Document the WordPress.com Tracks service and link to the plugin source code in the readme.
 - General: Update minimum WordPress version to 7.0.
+- Hide WordPress admin notices on the Stats dashboard, and let hosts show or hide the Stats sidebar entry.
 - Link the Stats packages and the Odyssey Stats dashboard source in the readme.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
