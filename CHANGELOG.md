@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 7.0.
 - Hide WordPress admin notices on the Stats dashboard, and let hosts show or hide the Stats sidebar entry.
 - Link the Stats packages and the Odyssey Stats dashboard source in the readme.
+- My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
@@ -49,6 +50,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Keep keyboard focus on the first or last data point when an arrow key reaches the end of the stats chart, return focus to the chart when Escape closes a tooltip, stop a focused chart from swallowing keys it does not use such as Page Down, and close the tooltip when the series it describes is hidden.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
+- My Jetpack: Show each notice once instead of twice.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
