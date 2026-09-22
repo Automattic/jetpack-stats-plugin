@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add the views chart and Stats link to the admin bar, a Stats column to the Posts and Pages lists, and the Stats widget to the WordPress dashboard.
 - Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - Initial scaffold for the standalone Jetpack Stats plugin.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
