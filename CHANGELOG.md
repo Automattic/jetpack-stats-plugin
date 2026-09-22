@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add a Settings tab to the Stats dashboard, to choose who can view Stats, which views are counted, and whether the admin bar shows a traffic chart.
 - Add the views chart and Stats link to the admin bar, a Stats column to the Posts and Pages lists, and the Stats widget to the WordPress dashboard.
 - Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - Initial scaffold for the standalone Jetpack Stats plugin.
