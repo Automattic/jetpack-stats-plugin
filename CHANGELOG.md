@@ -53,6 +53,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
 - My Jetpack: Show each notice once instead of twice.
+- My Jetpack: Show Stats as active when the Jetpack Stats plugin runs without the Jetpack plugin.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
