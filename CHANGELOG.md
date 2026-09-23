@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Report a broken connection on the connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning to everyone else.
+- My Jetpack: stretch the tab content background to the full height of the page.
 - Stop the pricing grid from coming back for up to 5 minutes after choosing Start for free.
 
 ## 1.0.0 - 2026-09-23
