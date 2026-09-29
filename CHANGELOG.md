@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show a Features tab in place of the Products tab.
 
 ### Fixed
+- Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
