@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
+- Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
