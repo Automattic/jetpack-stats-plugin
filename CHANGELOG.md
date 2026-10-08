@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card on sites without a connection owner when nothing in use needs a user connection.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card when nothing in use needs a user connection.
 - My Jetpack: stretch the tab content background to the full height of the page.
+- Stats card: Announce the chart correctly to screen readers.
 - Stop showing free-plan paywalls in wp-admin on a site whose plan already includes those stats.
 - Stop the pricing grid from coming back for up to 5 minutes after choosing Start for free.
 
