@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
+- My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
