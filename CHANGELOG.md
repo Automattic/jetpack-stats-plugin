@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show product cards flat, without a drop shadow.
 - My Jetpack: Show the stats chart tooltip on the dark WordPress design system tooltip surface.
+- My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
 
 ### Fixed
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
