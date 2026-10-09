@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Report a broken connection on the connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning to everyone else.
+- My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card on sites without a connection owner when nothing in use needs a user connection.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card when nothing in use needs a user connection.
 - My Jetpack: stretch the tab content background to the full height of the page.
