@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
+
 ### Changed
 - My Jetpack: Keep focus on pricing tooltip icons when they open, announce their content to screen readers, and show a focus ring after clicking them.
 - My Jetpack: Show a Features tab in place of the Products tab.
