@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
+- My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Report a broken connection on the connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning to everyone else.
