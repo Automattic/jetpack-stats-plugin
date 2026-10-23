@@ -38,7 +38,6 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Translate the Connectors card's text on sites that don't use English.
-- Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
@@ -48,6 +47,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Report a broken connection on the connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning to everyone else.
+- My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Stop asking for a user connection on the Overview connection card as soon as the plugin that needed one is switched off, without a reload.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
