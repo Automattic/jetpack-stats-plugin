@@ -43,6 +43,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Translate the Connectors card's text on sites that don't use English.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
+- My Jetpack: Fix a fatal error when activating Jetpack Stats beside an older Jetpack plugin.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
