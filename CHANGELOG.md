@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Mark the keyboard-selected bar in the My Jetpack stats chart with a focus ring that shows on any bar color.
 - My Jetpack: Keep focus on pricing tooltip icons when they open, announce their content to screen readers, and show a focus ring after clicking them.
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
+- My Jetpack: Open supported Modules links in Features when Jetpack is active.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show product cards flat, without a drop shadow.
