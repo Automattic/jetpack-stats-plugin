@@ -31,6 +31,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show product cards flat, without a drop shadow.
+- My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
 - My Jetpack: Show the stats chart tooltip on the dark WordPress design system tooltip surface.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
 - Update package dependencies.
