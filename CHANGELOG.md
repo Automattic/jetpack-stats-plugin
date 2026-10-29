@@ -42,6 +42,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
+- Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - Connection: Show connection owner names containing characters like & correctly.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
