@@ -34,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
 - My Jetpack: Show the stats chart tooltip on the dark WordPress design system tooltip surface.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
+- Stop counting visitors who have not allowed statistics cookies on sites that run the WP Consent API.
 - Update package dependencies.
 
 ### Fixed
