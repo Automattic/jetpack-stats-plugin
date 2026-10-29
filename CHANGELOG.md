@@ -41,6 +41,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
+- Connection: Show connection owner names containing characters like & correctly.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Translate the Connectors card's text on sites that don't use English.
