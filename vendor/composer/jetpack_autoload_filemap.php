@@ -14,6 +14,10 @@ return array(
 		'version' => '9.16.0.0-alpha1793301290',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/actions.php'
 	),
+	'ca361fc6e355bd746da7c3488077d38a' => array(
+		'version' => '1.1.0.0',
+		'path'    => $vendorDir . '/automattic/tracks-shared-utils/php/src/functions.php'
+	),
 	'483ab369492aebf2550e8341e3d031c8' => array(
 		'version' => '4.1.1.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/actions.php'

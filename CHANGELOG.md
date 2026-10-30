@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add Stats v2 and its WooCommerce section, off until the site opts in, as the Jetpack plugin does.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 - Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
