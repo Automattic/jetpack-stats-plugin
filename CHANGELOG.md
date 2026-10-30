@@ -39,6 +39,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the Features page on sites in Offline Mode, without connecting to WordPress.com.
 - My Jetpack: Show the stats chart tooltip on the dark WordPress design system tooltip surface.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
+- My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Stop counting visitors who have not allowed statistics cookies on sites that run the WP Consent API.
 - Update package dependencies.
 
