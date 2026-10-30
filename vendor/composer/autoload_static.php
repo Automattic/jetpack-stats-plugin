@@ -236,6 +236,8 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Automattic\\Jetpack\\PremiumAnalytics\\Reports\\Export\\Report_Registry' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/Reports/Export/class-report-registry.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Reports\\Export\\Support\\Logger_Trait' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/Reports/Export/Support/trait-logger-trait.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Reports\\Export\\Support\\Utilities' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/Reports/Export/Support/trait-utilities.php',
+        'Automattic\\Jetpack\\PremiumAnalytics\\Single_Report_Page' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-single-report-page.php',
+        'Automattic\\Jetpack\\PremiumAnalytics\\Single_Report_Page_Registry' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-single-report-page-registry.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Stats_Links' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-stats-links.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Stats_Settings' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-stats-settings.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Stored_Layout_Move' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-stored-layout-move.php',
