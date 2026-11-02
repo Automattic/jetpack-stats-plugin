@@ -41,6 +41,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Premium Analytics: Show the selected section tab in the design system colors instead of the admin theme color.
+- Stats widget: show a skeleton of the widget while it loads, in place of the spinner.
 - Stop counting visitors who have not allowed statistics cookies on sites that run the WP Consent API.
 - Update package dependencies.
 
