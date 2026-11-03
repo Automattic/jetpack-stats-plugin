@@ -81,6 +81,7 @@ This is an alpha version! The changes listed here are not final.
 - Stats card: Announce the chart correctly to screen readers.
 - Stats v2: Leave the plan usage card out of the Settings tab when the plan has no view limit, instead of saying usage isn't available.
 - Stop showing free-plan paywalls in wp-admin on a site whose plan already includes those stats.
+- Stop store money charts repeating y-axis labels, such as $1, $1, $2, when the store shows fewer decimals than its amounts carry.
 - Stop the pricing grid from coming back for up to 5 minutes after choosing Start for free.
 
 ## 1.0.0 - 2026-09-23
