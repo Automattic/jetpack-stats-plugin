@@ -49,6 +49,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Name the post detail traffic tab and the highlights and views cards for the content type, such as Product traffic.
 - Premium Analytics: Show exact figures in single-figure widgets, shortening them only where they would be clipped.
 - Premium Analytics: Show the selected section tab in the design system colors instead of the admin theme color.
+- Stats v2: Let the number of dashboard columns follow the width of the page, up to six.
 - Stats widget: show a skeleton of the widget while it loads, in place of the spinner.
 - Stop counting visitors who have not allowed statistics cookies on sites that run the WP Consent API.
 - Update package dependencies.
