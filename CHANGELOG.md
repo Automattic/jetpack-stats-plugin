@@ -44,6 +44,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the stats chart tooltip on the dark WordPress design system tooltip surface.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
+- Premium Analytics: Load the All-time stats and Most popular day widgets faster by skipping the share counts they never show.
 - Premium Analytics: Name the post detail traffic tab and the highlights and views cards for the content type, such as Product traffic.
 - Premium Analytics: Show exact figures in single-figure widgets, shortening them only where they would be clipped.
 - Premium Analytics: Show the selected section tab in the design system colors instead of the admin theme color.
