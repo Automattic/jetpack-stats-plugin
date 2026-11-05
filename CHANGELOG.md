@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Add an Available filter to the Features list.
 - My Jetpack: Add catalog-controlled Pro offers and preserve existing plan management.
 - My Jetpack: Recognize Jetpack Pro subscriptions and licenses.
+- Premium Analytics: Add previous and next arrows beside the date range picker that step the range by its own length, as classic Stats does.
 - Premium Analytics: Offer a quarterly interval in the Traffic summary and the WooCommerce tab on ranges of a year or longer.
 
 ### Changed
