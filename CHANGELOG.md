@@ -87,6 +87,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card on sites without a connection owner when nothing in use needs a user connection.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card when nothing in use needs a user connection.
 - My Jetpack: stretch the tab content background to the full height of the page.
+- Premium Analytics: Fix Jetpack icon alignment and spacing in page headers.
 - Premium Analytics: Stop long row names in cards such as Top UTM from running under the views count on hover.
 - Premium Analytics: Stop screen readers from announcing widget content as dimmed outside edit mode.
 - Show view counts in the Pages list, and any list with more than 100 posts, instead of leaving them blank.
