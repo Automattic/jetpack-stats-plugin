@@ -90,6 +90,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Name each pie chart segment, so a screen reader reads the breakdown instead of an empty chart.
 - Premium Analytics: Fix Jetpack icon alignment and spacing in page headers.
+- Premium Analytics: Keep Stats under My Home in the admin menu on WordPress.com, where it had dropped below Hosting and Upgrades.
 - Premium Analytics: Stop long row names in cards such as Top UTM from running under the views count on hover.
 - Premium Analytics: Stop screen readers from announcing widget content as dimmed outside edit mode.
 - Show view counts in the Pages list, and any list with more than 100 posts, instead of leaving them blank.
