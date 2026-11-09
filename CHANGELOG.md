@@ -55,6 +55,7 @@ This is an alpha version! The changes listed here are not final.
 - Stats widget: show a skeleton of the widget while it loads, in place of the spinner.
 - Stop counting visitors who have not allowed statistics cookies on sites that run the WP Consent API.
 - Update package dependencies.
+- Update TOS links
 
 ### Fixed
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
