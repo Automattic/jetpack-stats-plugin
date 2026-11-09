@@ -14,7 +14,7 @@
 		"automattic/jetpack-stats": "^0.24.1",
 		"automattic/jetpack-stats-admin": "^0.40.0",
 		"automattic/jetpack-status": "^7.1.1",
-		"automattic/jetpack-sync": "^5.5.1",
+		"automattic/jetpack-sync": "^5.5.2-alpha",
 		"automattic/jetpack-woocommerce-stats": "^0.3.3"
 	},
 	"require-dev": {
