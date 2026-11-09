@@ -6,7 +6,7 @@ return array(
   'packages' => array(
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
-      'ver' => '0.14.14-alpha1794245066',
+      'ver' => '0.14.15-alpha1794252447',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
@@ -30,7 +30,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '9.17.2-alpha1794235592',
+      'ver' => '9.17.2',
     ),
     'jetpack-explat' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-explat',
@@ -58,7 +58,7 @@ return array(
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '6.18.0-alpha1794243198',
+      'ver' => '6.18.0-alpha1794252447',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
@@ -70,31 +70,31 @@ return array(
     ),
     'jetpack-premium-analytics-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-premium-analytics',
-      'ver' => '0.17.0-alpha1794238605',
+      'ver' => '0.17.0',
     ),
     'jetpack-protect-models' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-protect-models',
-      'ver' => '0.7.4-alpha1793989446',
+      'ver' => '0.7.4',
     ),
     'jetpack-protect-status' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-protect-status',
-      'ver' => '0.10.2-alpha1793980323',
+      'ver' => '0.10.2',
     ),
     'jetpack-stats-admin' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats-admin',
-      'ver' => '0.40.0-alpha1794235592',
+      'ver' => '0.40.0',
     ),
     'jetpack-stats-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats',
-      'ver' => '0.24.1-alpha1794235592',
+      'ver' => '0.24.1',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '5.5.1-alpha1793989446',
+      'ver' => '5.5.1',
     ),
     'jetpack-woocommerce-stats-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-woocommerce-stats',
-      'ver' => '0.3.3-alpha1794195544',
+      'ver' => '0.3.3',
     ),
     'jetpack-wp-abilities' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-wp-abilities',
