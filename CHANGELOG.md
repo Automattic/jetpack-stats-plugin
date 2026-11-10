@@ -52,6 +52,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Remove the feedback banner and menu option from the new Stats once classic Stats is retired.
 - Premium Analytics: Show exact figures in single-figure widgets, shortening them only where they would be clipped.
 - Premium Analytics: Show the selected section tab in the design system colors instead of the admin theme color.
+- Stats: Mark the jetpack-stats/update-settings ability as destructive, since it overwrites the saved Stats settings.
 - Stats v2: Let the number of dashboard columns follow the width of the page, up to six.
 - Stats widget: show a skeleton of the widget while it loads, in place of the spinner.
 - Stop counting visitors who have not allowed statistics cookies on sites that run the WP Consent API.
