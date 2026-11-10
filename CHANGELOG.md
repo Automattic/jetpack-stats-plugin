@@ -98,6 +98,7 @@ This is an alpha version! The changes listed here are not final.
 - Name each pie chart segment, so a screen reader reads the breakdown instead of an empty chart.
 - On sites running the WP Consent API, count AMP views only after the visitor allows statistics in an AMP consent banner. AMP pages without one, AMP pages not rendered by the AMP plugin, and Web Stories are no longer counted there.
 - Premium Analytics: Fix Jetpack icon alignment and spacing in page headers.
+- Premium Analytics: Improve page transitions between reports and detail views.
 - Premium Analytics: Keep Stats under My Home in the admin menu on WordPress.com, where it had dropped below Hosting and Upgrades.
 - Premium Analytics: Keep Year in review and Subscriber highlights in columns after switching dashboard tabs.
 - Premium Analytics: Read a preset as the window it names today in the date controls, the interval menu and the comparison, as the widgets do, so a bookmark with older dates no longer names last week in the date tooltip and the calendar, or compares this week against the wrong one.
