@@ -68,6 +68,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Translate the Connectors card's text on sites that don't use English.
 - Count visitors who allowed statistics when a performance plugin delays the WP Consent API script.
+- Count visitors who have not made a consent choice on opt-out sites when a performance plugin delays the WP Consent API script.
 - Footer: Show the Features link to administrators only.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
