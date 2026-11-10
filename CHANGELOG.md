@@ -87,6 +87,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Return to the tab you came from with the back link on product upgrade screens.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
+- My Jetpack: Show what went wrong and let users retry when the onboarding connection to WordPress.com fails.
 - My Jetpack: Stop asking for a user connection on the Overview connection card as soon as the plugin that needed one is switched off, without a reload.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
