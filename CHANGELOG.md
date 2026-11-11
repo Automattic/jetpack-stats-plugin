@@ -80,6 +80,7 @@ This is an alpha version! The changes listed here are not final.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
+- My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix a fatal error when activating Jetpack Stats beside an older Jetpack plugin.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
