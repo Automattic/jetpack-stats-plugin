@@ -52,6 +52,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Premium Analytics: Load the All-time stats and Most popular day widgets faster by skipping the share counts they never show.
 - Premium Analytics: Name the post detail traffic tab and the highlights and views cards for the content type, such as Product traffic.
+- Premium Analytics: Open post and video reports on the date range of the page that linked to them.
 - Premium Analytics: open the Top posts and the other Traffic lists tall enough to show ten entries by default.
 - Premium Analytics: Remove the feedback banner and menu option from the new Stats once classic Stats is retired.
 - Premium Analytics: Show exact figures in single-figure widgets, shortening them only where they would be clipped.
