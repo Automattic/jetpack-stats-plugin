@@ -110,6 +110,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Improve page transitions between reports and detail views.
 - Premium Analytics: Keep Stats under My Home in the admin menu on WordPress.com, where it had dropped below Hosting and Upgrades.
 - Premium Analytics: Keep Year in review and Subscriber highlights in columns after switching dashboard tabs.
+- Premium Analytics: Move a preset's dates to the new day when a page is left open past midnight, so the numbers and the date controls include today.
 - Premium Analytics: Read a preset as the window it names today in the date controls, the interval menu and the comparison, as the widgets do, so a bookmark with older dates no longer names last week in the date tooltip and the calendar, or compares this week against the wrong one.
 - Premium Analytics: Stop long row names in cards such as Top UTM from running under the views count on hover.
 - Premium Analytics: Stop screen readers from announcing widget content as dimmed outside edit mode.
