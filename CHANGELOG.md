@@ -86,6 +86,7 @@ This is an alpha version! The changes listed here are not final.
 - Count visitors who allowed statistics when a performance plugin delays the WP Consent API script.
 - Count visitors who have not made a consent choice on opt-out sites when a performance plugin delays the WP Consent API script.
 - Declare support for the WP Consent API, so its Site Health check no longer lists Jetpack Stats as not conforming.
+- Fix the Stats dashboard failing to load on WordPress 7.2.
 - Footer: Show the Features link to administrators only.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
