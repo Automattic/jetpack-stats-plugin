@@ -53,6 +53,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Premium Analytics: Load Stats v2 sooner when it is opened from the admin menu.
 - Premium Analytics: Load the All-time stats and Most popular day widgets faster by skipping the share counts they never show.
+- Premium Analytics: Move the Stats v2 settings from a dashboard tab to their own page, reached from the page options menu.
 - Premium Analytics: Name the post detail traffic tab and the highlights and views cards for the content type, such as Product traffic.
 - Premium Analytics: Open post and video reports on the date range of the page that linked to them.
 - Premium Analytics: open the Top posts and the other Traffic lists tall enough to show ten entries by default.
