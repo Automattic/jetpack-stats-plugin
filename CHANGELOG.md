@@ -65,6 +65,7 @@ This is an alpha version! The changes listed here are not final.
 - Update TOS links
 
 ### Fixed
+- Charts: Wait for a chart's size before drawing it, so charts and their legends no longer jump into place as a page loads.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
