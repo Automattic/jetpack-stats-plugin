@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Use one wording across My Jetpack and the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - Explain in the Visitor consent settings that views may drop once Stats follows visitor consent.
+- Leave a bar chart column empty when its value is zero, instead of drawing a thin bar that looks like a small count.
 - Mark the keyboard-selected bar in the My Jetpack stats chart with a focus ring that shows on any bar color.
 - My Jetpack: Connect a WordPress.com account from feature cards that need one. Show feature states through switches or buttons instead of redundant Active or Inactive badges, and show host restrictions below descriptions. Leave features out of Available when their only action is an install you cannot make.
 - My Jetpack: Highlight expiring and expired plans in the account panel under your avatar, list them first with a renew link, and show other plans as active until their renewal date.
