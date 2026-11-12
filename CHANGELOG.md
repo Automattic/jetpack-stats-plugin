@@ -60,6 +60,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Open post and video reports on the date range of the page that linked to them.
 - Premium Analytics: open the Top posts and the other Traffic lists tall enough to show ten entries by default.
 - Premium Analytics: Remove the feedback banner and menu option from the new Stats once classic Stats is retired.
+- Premium Analytics: Serve the author page from /report/author/<id>; the old /author/<id> address redirects.
 - Premium Analytics: Show exact figures in single-figure widgets, shortening them only where they would be clipped.
 - Premium Analytics: Show the first Stats v2 widgets sooner.
 - Premium Analytics: Show the selected section tab in the design system colors instead of the admin theme color.
