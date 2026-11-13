@@ -134,6 +134,7 @@ This is an alpha version! The changes listed here are not final.
 - Stop showing free-plan paywalls in wp-admin on a site whose plan already includes those stats.
 - Stop store money charts repeating y-axis labels, such as $1, $1, $2, when the store shows fewer decimals than its amounts carry.
 - Stop the pricing grid from coming back for up to 5 minutes after choosing Start for free.
+- Stop the upgrade screen from briefly offering Jetpack Complete before Jetpack Pro.
 - WooCommerce: Keep report widgets loading while a new store's analytics data is prepared, instead of showing an error.
 
 ## 1.0.0 - 2026-09-23
