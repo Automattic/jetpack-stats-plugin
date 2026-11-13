@@ -56,6 +56,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the stats chart tooltip on the dark WordPress design system tooltip surface.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
+- Premium Analytics: Draw the text inside dashboard widgets larger and at a heavier weight, as classic Stats did, so lists and figures are easier to read.
 - Premium Analytics: Load Stats v2 sooner when it is opened from the admin menu.
 - Premium Analytics: Load the All-time stats and Most popular day widgets faster by skipping the share counts they never show.
 - Premium Analytics: Move the Stats v2 settings from a dashboard tab to their own page, reached from the page options menu.
