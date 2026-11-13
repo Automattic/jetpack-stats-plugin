@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Recognize Jetpack Pro subscriptions and licenses.
 - Premium Analytics: Add a Last 3 years period to the date menu, charted by years, so traffic can be compared year by year without picking a custom range.
 - Premium Analytics: Add an Arrange tabs option to the Stats v2 page options menu, to reorder the tabs and choose the one that opens first.
+- Premium Analytics: Add Download CSV to the Devices and Top platforms cards.
 - Premium Analytics: Add Download CSV to the Traffic summary card.
 - Premium Analytics: Add previous and next arrows beside the date range picker that step the range by its own length, as classic Stats does.
 - Premium Analytics: Let a click on a point or bar in the WooCommerce tab charts set the dashboard to that period, and open the previous period for a click on a previous-period point or bar in any chart.
