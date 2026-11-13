@@ -125,6 +125,7 @@ This is an alpha version! The changes listed here are not final.
 - On sites running the WP Consent API, count AMP views only after the visitor allows statistics in an AMP consent banner. AMP pages without one, AMP pages not rendered by the AMP plugin, and Web Stories are no longer counted there.
 - Premium Analytics: Fix Jetpack icon alignment and spacing in page headers.
 - Premium Analytics: Improve page transitions between reports and detail views.
+- Premium Analytics: Keep a video's Retention rate chart inside its plot when retention is above 100%.
 - Premium Analytics: Keep Stats under My Home in the admin menu on WordPress.com, where it had dropped below Hosting and Upgrades.
 - Premium Analytics: Keep the month in month labels for Japanese, Chinese and Korean sites, which showed a day marker instead (2021年1日 rather than 2021年1月).
 - Premium Analytics: Keep the place of a hidden Stats v2 tab when the tab order is saved.
