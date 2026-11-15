@@ -56,6 +56,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
 - My Jetpack: Show the Features page on sites in Offline Mode, without connecting to WordPress.com.
 - My Jetpack: Show the stats chart tooltip on the dark WordPress design system tooltip surface.
+- My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from the Features tab.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Premium Analytics: Draw the text inside dashboard widgets larger and at a heavier weight, as classic Stats did, so lists and figures are easier to read.
