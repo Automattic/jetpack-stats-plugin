@@ -90,8 +90,10 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Fix the Safe Mode window in My Jetpack opening empty, with no choices.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
+- Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - Connection: Show connection owner names containing characters like & correctly.
+- Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Translate the Connectors card's text on sites that don't use English.
