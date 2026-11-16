@@ -135,6 +135,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Keep Stats under My Home in the admin menu on WordPress.com, where it had dropped below Hosting and Upgrades.
 - Premium Analytics: Keep the month in month labels for Japanese, Chinese and Korean sites, which showed a day marker instead (2021年1日 rather than 2021年1月).
 - Premium Analytics: Keep the place of a hidden Stats v2 tab when the tab order is saved.
+- Premium Analytics: Keep the side padding on the longer option of a card's view toggle, such as Posts & pages on the Top pages card.
 - Premium Analytics: Keep the widget title from being cut off beside a toggle, so the toggle folds into the widget controls menu at the same width whichever way the widget is resized.
 - Premium Analytics: Keep Year in review and Subscriber highlights in columns after switching dashboard tabs.
 - Premium Analytics: Move an old Year to date or All time link to today's window when its saved interval no longer fits, so the address bar matches the charts.
