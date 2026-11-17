@@ -142,6 +142,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Move a preset's dates to the new day when a page is left open past midnight, so the numbers and the date controls include today.
 - Premium Analytics: Name an untitled post, author or video in the last breadcrumb of its page, as the header does.
 - Premium Analytics: Open the dashboard for old Stats links on WordPress 7.2 instead of a page-not-found error.
+- Premium Analytics: Open the matching report for old Stats links to a summary page, such as referrers or search terms, and today by the hour for the old hourly Traffic link, instead of the Traffic tab or the dashboard root.
 - Premium Analytics: Read a preset as the window it names today in the date controls, the interval menu and the comparison, as the widgets do, so a bookmark with older dates no longer names last week in the date tooltip and the calendar, or compares this week against the wrong one.
 - Premium Analytics: Shorten the breadcrumb trail and hide the Customizing badge on phones, instead of letting them cover the header buttons.
 - Premium Analytics: Show metric cards as a list when the card is too narrow for every metric to fit side by side, instead of cutting off the figures.
