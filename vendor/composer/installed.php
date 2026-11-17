@@ -274,7 +274,7 @@
         'automattic/jetpack-stats-admin' => array(
             'pretty_version' => '0.40.1',
             'version' => '0.40.1.0',
-            'reference' => '80635fa2e67be14622cd47e5cf4571fe8d6c0b19',
+            'reference' => '5d906ce0fd2b65ebb80a1b1f35b7fd0ee78e6cf2',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-stats-admin',
             'aliases' => array(),
