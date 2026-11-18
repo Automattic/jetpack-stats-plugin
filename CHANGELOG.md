@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Let a click on a point or bar in the WooCommerce tab charts set the dashboard to that period, and open the previous period for a click on a previous-period point or bar in any chart.
 - Premium Analytics: Offer a quarterly interval in the Traffic summary and the WooCommerce tab on ranges of a year or longer.
 - Premium Analytics: Offer a yearly chart interval on any date range that covers three calendar years.
+- Premium Analytics: Reload the analytics dashboard once when part of it fails to load after an update, instead of showing an error. WordPress.com sites only.
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
