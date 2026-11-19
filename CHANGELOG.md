@@ -114,6 +114,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix a fatal error when activating Jetpack Stats beside an older Jetpack plugin.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
+- My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
 - My Jetpack: Fix the Security and Growth filters on the Features tab showing no features.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
