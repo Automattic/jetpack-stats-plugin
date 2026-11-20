@@ -43,15 +43,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-media-library.php'
 	),
 	'Automattic\\Jetpack\\Announcements\\Announcement_Registry' => array(
-		'version' => '0.1.0.0-alpha1795107727',
+		'version' => '0.1.0.0-alpha1795170881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-announcements/src/class-announcement-registry.php'
 	),
 	'Automattic\\Jetpack\\Announcements\\Announcements' => array(
-		'version' => '0.1.0.0-alpha1795107727',
+		'version' => '0.1.0.0-alpha1795170881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-announcements/src/class-announcements.php'
 	),
 	'Automattic\\Jetpack\\Announcements\\REST_Controller' => array(
-		'version' => '0.1.0.0-alpha1795107727',
+		'version' => '0.1.0.0-alpha1795170881',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-announcements/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Assets' => array(
