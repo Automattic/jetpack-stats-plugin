@@ -199,6 +199,7 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Automattic\\Jetpack\\PremiumAnalytics\\Dashboard_Announcements' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-dashboard-announcements.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Dashboard_Section' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-dashboard-section.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Dashboard_Section_Registry' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-dashboard-section-registry.php',
+        'Automattic\\Jetpack\\PremiumAnalytics\\Dashboard_Support' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-dashboard-support.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Dashboard_Support_Routes' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-dashboard-support-routes.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Enablement' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-enablement.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Enablement_Setting' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-enablement-setting.php',
