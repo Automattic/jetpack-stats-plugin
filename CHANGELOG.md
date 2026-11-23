@@ -144,6 +144,7 @@ This is an alpha version! The changes listed here are not final.
 - On sites running the WP Consent API, count AMP views only after the visitor allows statistics in an AMP consent banner. AMP pages without one, AMP pages not rendered by the AMP plugin, and Web Stories are no longer counted there.
 - Premium Analytics: Draw the legend labels and values in breakdown charts such as Devices, and the links in a video's Used on posts & pages card, at the same 14px size as the rest of the widget text.
 - Premium Analytics: Fix Jetpack icon alignment and spacing in page headers.
+- Premium Analytics: Fix short figures such as 9.5 lakh showing as 9 lakh in Hindi and other locales with their own units.
 - Premium Analytics: Fix the date arrows landing on a partial day, week or month after clicking today's chart bar.
 - Premium Analytics: Improve page transitions between reports and detail views.
 - Premium Analytics: Keep a video's Retention rate chart inside its plot when retention is above 100%.
