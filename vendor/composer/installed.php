@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'automattic/block-delimiter' => array(
-            'pretty_version' => 'v0.4.2',
-            'version' => '0.4.2.0',
-            'reference' => '890cec65deee05f72fcacbcc65ed0772004bc199',
+            'pretty_version' => 'v0.4.3',
+            'version' => '0.4.3.0',
+            'reference' => '2e445d01c5e856575871f0d64a169be5f4b1d6fe',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/block-delimiter',
             'aliases' => array(),
