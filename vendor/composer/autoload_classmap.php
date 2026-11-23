@@ -12,6 +12,7 @@ return array(
     'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
     'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php',
     'Automattic\\Jetpack\\Admin_UI\\Media_Library' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-media-library.php',
+    'Automattic\\Jetpack\\Admin_UI\\Page_Handles' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-page-handles.php',
     'Automattic\\Jetpack\\Announcements\\Announcement_Registry' => $baseDir . '/jetpack_vendor/automattic/jetpack-announcements/src/class-announcement-registry.php',
     'Automattic\\Jetpack\\Announcements\\Announcements' => $baseDir . '/jetpack_vendor/automattic/jetpack-announcements/src/class-announcements.php',
     'Automattic\\Jetpack\\Announcements\\REST_Controller' => $baseDir . '/jetpack_vendor/automattic/jetpack-announcements/src/class-rest-controller.php',

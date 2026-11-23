@@ -40,6 +40,7 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
         'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php',
         'Automattic\\Jetpack\\Admin_UI\\Media_Library' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-media-library.php',
+        'Automattic\\Jetpack\\Admin_UI\\Page_Handles' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-page-handles.php',
         'Automattic\\Jetpack\\Announcements\\Announcement_Registry' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-announcements/src/class-announcement-registry.php',
         'Automattic\\Jetpack\\Announcements\\Announcements' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-announcements/src/class-announcements.php',
         'Automattic\\Jetpack\\Announcements\\REST_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-announcements/src/class-rest-controller.php',
