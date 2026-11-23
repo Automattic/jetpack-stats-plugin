@@ -167,6 +167,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Use the locale's default date format when the site's Date Format setting lacks a day, month or year, so chart labels and the date selector stay unambiguous.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
+- Show the upgrade page prices in your local currency when your WordPress.com account is not connected to the site.
 - Show view counts in the Pages list, and any list with more than 100 posts, instead of leaving them blank.
 - Stats: Open Stats v2 from old Stats links and stop offering to switch back to classic Stats once the classic Stats page is retired.
 - Stats card: Announce the chart correctly to screen readers.
