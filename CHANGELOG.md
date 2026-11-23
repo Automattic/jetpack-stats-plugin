@@ -161,6 +161,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Stop a long post title from widening the page on desktop, so the header buttons stay in view.
 - Premium Analytics: Stop long row names in cards such as Top UTM from running under the views count on hover.
 - Premium Analytics: Stop screen readers from announcing widget content as dimmed outside edit mode.
+- Premium Analytics: Stop the customize buttons covering the breadcrumb trail on a narrow screen.
 - Premium Analytics: Use the locale's default date format when the site's Date Format setting lacks a day, month or year, so chart labels and the date selector stay unambiguous.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
