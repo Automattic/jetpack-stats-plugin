@@ -164,6 +164,7 @@ return array(
     'Automattic\\Jetpack\\Paths' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-paths.php',
     'Automattic\\Jetpack\\Plans' => $vendorDir . '/automattic/jetpack-plans/src/class-plans.php',
     'Automattic\\Jetpack\\Plugins_Installer' => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php',
+    'Automattic\\Jetpack\\PremiumAnalytics\\AI_Traffic' => $baseDir . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-ai-traffic.php',
     'Automattic\\Jetpack\\PremiumAnalytics\\Analytics' => $baseDir . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-analytics.php',
     'Automattic\\Jetpack\\PremiumAnalytics\\Capabilities' => $baseDir . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-capabilities.php',
     'Automattic\\Jetpack\\PremiumAnalytics\\Classic_Stats' => $baseDir . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-classic-stats.php',
