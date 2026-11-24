@@ -317,9 +317,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-woocommerce-stats' => array(
-            'pretty_version' => '0.6.0-alpha.1795486256',
-            'version' => '0.6.0.0-alpha1795486256',
-            'reference' => '10db14ea8ffee38436dc4f3a9e79dbc03da1d46d',
+            'pretty_version' => '0.6.0-alpha.1795531497',
+            'version' => '0.6.0.0-alpha1795531497',
+            'reference' => 'e4c446dbb3640d54a297eef96a33d211b7f387ad',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-woocommerce-stats',
             'aliases' => array(),
