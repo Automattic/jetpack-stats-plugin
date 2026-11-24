@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Add Download CSV to the post, video and email detail cards.
 - Premium Analytics: Add Download CSV to the Traffic summary card.
 - Premium Analytics: Add Download CSV to the Views over years, Monthly posting activity and Subscriber summary cards.
+- Premium Analytics: Add Items sold to the Store performance metrics.
 - Premium Analytics: Add previous and next arrows beside the date range picker that step the range by its own length, as classic Stats does.
 - Premium Analytics: Let a click on a point or bar in the WooCommerce tab charts set the dashboard to that period, and open the previous period for a click on a previous-period point or bar in any chart.
 - Premium Analytics: Offer a quarterly interval in the Traffic summary and the WooCommerce tab on ranges of a year or longer.
