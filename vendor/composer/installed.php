@@ -227,9 +227,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-premium-analytics' => array(
-            'pretty_version' => '0.19.0',
-            'version' => '0.19.0.0',
-            'reference' => '23a43dc1ca2c9c54d3e7367dc8da98c0f685e380',
+            'pretty_version' => '0.20.0-alpha.1795491776',
+            'version' => '0.20.0.0-alpha1795491776',
+            'reference' => '5a51085bd3d3568f377240af65a4961b0aa4c678',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-premium-analytics',
             'aliases' => array(),
@@ -319,7 +319,7 @@
         'automattic/jetpack-woocommerce-stats' => array(
             'pretty_version' => '0.6.0-alpha.1795486256',
             'version' => '0.6.0.0-alpha1795486256',
-            'reference' => '0909f72a1137ec55ffb3d5e0a2a8ba7a663ad19e',
+            'reference' => '581c3a8f5856742fd4abd96aef165f7d5b00fbb8',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-woocommerce-stats',
             'aliases' => array(),
