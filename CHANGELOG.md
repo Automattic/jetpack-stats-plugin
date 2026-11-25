@@ -103,6 +103,7 @@ This is an alpha version! The changes listed here are not final.
 - Settings: Remove the WordPress.com Reader "Show post views for this site" setting, which no longer has any effect.
 
 ### Fixed
+- Charts: Name a month the date range cuts by its days in the Post views, Video and Author performance tooltips.
 - Charts: Name a whole month by its month and year in tooltips, not by its first day.
 - Charts: Wait for a chart's size before drawing it, so charts and their legends no longer jump into place as a page loads.
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
