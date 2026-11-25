@@ -9,8 +9,8 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
     public static $files = array (
         '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-assets/actions.php',
         '7372b7fb88a9723cf5b76d456eb0b738' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/actions.php',
-        'ca361fc6e355bd746da7c3488077d38a' => __DIR__ . '/..' . '/automattic/tracks-shared-utils/php/src/functions.php',
         '8dadc7d1fad607338155477657d4d3eb' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-announcements/actions.php',
+        'ca361fc6e355bd746da7c3488077d38a' => __DIR__ . '/..' . '/automattic/tracks-shared-utils/php/src/functions.php',
         '483ab369492aebf2550e8341e3d031c8' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-licensing/actions.php',
     );
 
@@ -258,7 +258,6 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Automattic\\Jetpack\\PremiumAnalytics\\Sync\\Sync_Status_Tracker' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/Sync/class-sync-status-tracker.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Widget_Type' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-widget-type.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Widget_Type_Registry' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-widget-type-registry.php',
-        'Automattic\\Jetpack\\PremiumAnalytics\\WooCommerce_Analytics_Tracker' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-woocommerce-analytics-tracker.php',
         'Automattic\\Jetpack\\Protect_Models' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-protect-models.php',
         'Automattic\\Jetpack\\Protect_Models\\Extension_Model' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-extension-model.php',
         'Automattic\\Jetpack\\Protect_Models\\History_Model' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-history-model.php',
@@ -386,6 +385,7 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Automattic\\Jetpack\\WooCommerceStats\\Report_Execution\\Wpcom_Report_Provider' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-woocommerce-stats/src/report-execution/wpcom/class-wpcom-report-provider.php',
         'Automattic\\Jetpack\\WooCommerceStats\\Store_Currency' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-woocommerce-stats/src/class-store-currency.php',
         'Automattic\\Jetpack\\WooCommerceStats\\Sync_Configuration' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-woocommerce-stats/src/class-sync-configuration.php',
+        'Automattic\\Jetpack\\WooCommerceStats\\WooCommerce_Analytics_Tracker' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-woocommerce-stats/src/class-woocommerce-analytics-tracker.php',
         'Automattic\\TracksSharedUtils\\Config' => __DIR__ . '/..' . '/automattic/tracks-shared-utils/php/src/Config.php',
         'Automattic\\TracksSharedUtils\\Sanitizer' => __DIR__ . '/..' . '/automattic/tracks-shared-utils/php/src/Sanitizer.php',
         'Automattic\\Woocommerce_Analytics' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-woocommerce-analytics.php',

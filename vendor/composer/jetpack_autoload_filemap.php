@@ -14,13 +14,13 @@ return array(
 		'version' => '9.18.4.0-alpha1795536091',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/actions.php'
 	),
-	'ca361fc6e355bd746da7c3488077d38a' => array(
-		'version' => '1.1.0.0',
-		'path'    => $vendorDir . '/automattic/tracks-shared-utils/php/src/functions.php'
-	),
 	'8dadc7d1fad607338155477657d4d3eb' => array(
 		'version' => '0.2.0.0-alpha1795529466',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-announcements/actions.php'
+	),
+	'ca361fc6e355bd746da7c3488077d38a' => array(
+		'version' => '1.1.0.0',
+		'path'    => $vendorDir . '/automattic/tracks-shared-utils/php/src/functions.php'
 	),
 	'483ab369492aebf2550e8341e3d031c8' => array(
 		'version' => '4.1.1.0',
