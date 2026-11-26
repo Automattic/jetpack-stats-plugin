@@ -188,6 +188,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Stop the customize buttons covering the breadcrumb trail on a narrow screen.
 - Premium Analytics: Stop the pinned report header from jumping when a trackpad scroll overshoots the end of a report.
 - Premium Analytics: Use the locale's default date format when the site's Date Format setting lacks a day, month or year, so chart labels and the date selector stay unambiguous.
+- Premium Analytics: Wrap long titles in the report tables so the other columns stay in view on narrow screens.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
 - Show the upgrade page prices in your local currency when your WordPress.com account is not connected to the site.
