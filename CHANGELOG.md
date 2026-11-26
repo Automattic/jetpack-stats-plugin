@@ -125,6 +125,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix the Stats dashboard failing to load on WordPress 7.2.
 - Footer: Show the Features link to administrators only.
 - Let the pointer take over from the arrow keys in the stats chart, instead of flickering between the hovered and selected bars.
+- My Jetpack: Announce the same connection status on the header's account button as in its panel, and read that status first when the panel opens from the keyboard.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
 - My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
