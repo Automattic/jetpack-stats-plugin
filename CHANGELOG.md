@@ -168,6 +168,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Keep the side padding on the longer option of a card's view toggle, such as Posts & pages on the Top pages card.
 - Premium Analytics: Keep the widget title from being cut off beside a toggle, so the toggle folds into the widget controls menu at the same width whichever way the widget is resized.
 - Premium Analytics: Keep Year in review and Subscriber highlights in columns after switching dashboard tabs.
+- Premium Analytics: Load Stats report rows as the table scrolls, so a report with thousands of rows opens without freezing the browser.
 - Premium Analytics: Mark the posts and pages published in the selected period in Top pages, as classic Stats did.
 - Premium Analytics: Move an old Year to date or All time link to today's window when its saved interval no longer fits, so the address bar matches the charts.
 - Premium Analytics: Move a preset's dates to the new day when a page is left open past midnight, so the numbers and the date controls include today.
