@@ -207,7 +207,6 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Automattic\\Jetpack\\PremiumAnalytics\\Enablement_Setting' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-enablement-setting.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Jetpack_Stats_Tracker' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-jetpack-stats-tracker.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Notices' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-notices.php',
-        'Automattic\\Jetpack\\PremiumAnalytics\\Parsely_Prompts' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-parsely-prompts.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Promo' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-promo.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\Promo_Registry' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/class-promo-registry.php',
         'Automattic\\Jetpack\\PremiumAnalytics\\REST\\Api_Proxy_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-premium-analytics/src/REST/class-api-proxy-controller.php',
