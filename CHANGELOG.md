@@ -31,6 +31,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Add Items sold to the Store performance metrics.
 - Premium Analytics: Add previous and next arrows beside the date range picker that step the range by its own length, as classic Stats does.
 - Premium Analytics: Let a click on a point or bar in the WooCommerce tab charts set the dashboard to that period, and open the previous period for a click on a previous-period point or bar in any chart.
+- Premium Analytics: Let the Top tags & categories widget show only tags or only categories.
 - Premium Analytics: Offer a quarterly interval in the Traffic summary and the WooCommerce tab on ranges of a year or longer.
 - Premium Analytics: Offer a yearly chart interval on any date range that covers three calendar years.
 - Premium Analytics: Open the WooCommerce tab on a disconnected store set to report from its own data.
