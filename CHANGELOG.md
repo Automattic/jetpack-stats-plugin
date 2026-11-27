@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Security
+- Stats: Limit subscriber data to subscriber counts, so users who can view Stats cannot read the subscriber list.
+
 ### Added
 - Add Stats v2 and its WooCommerce section, off until the site opts in, as the Jetpack plugin does.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
