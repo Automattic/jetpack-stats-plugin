@@ -396,6 +396,7 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Automattic\\Woocommerce_Analytics\\Features' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-features.php',
         'Automattic\\Woocommerce_Analytics\\My_Account' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-my-account.php',
         'Automattic\\Woocommerce_Analytics\\Pixel_Builder' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-pixel-builder.php',
+        'Automattic\\Woocommerce_Analytics\\Proxy_Speed_Module' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-proxy-speed-module.php',
         'Automattic\\Woocommerce_Analytics\\Universal' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-universal.php',
         'Automattic\\Woocommerce_Analytics\\WC_Analytics_Tracking' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-wc-analytics-tracking.php',
         'Automattic\\Woocommerce_Analytics\\WC_Analytics_Tracking_Proxy' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/API/class-wc-analytics-tracking-proxy.php',
@@ -408,7 +409,6 @@ class ComposerStaticInit29f459d83ca5f0666183989c5a327600_jetpack_statsⓥ1_1_0_a
         'Jetpack_Tracks_Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-client.php',
         'Jetpack_Tracks_Event' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php',
         'Jetpack_XMLRPC_Server' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
-        'WooCommerceAnalyticsProxySpeed' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/woocommerce-analytics/src/mu-plugin/woocommerce-analytics-proxy-speed-module-template.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

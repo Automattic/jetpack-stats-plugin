@@ -368,6 +368,7 @@ return array(
     'Automattic\\Woocommerce_Analytics\\Features' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-features.php',
     'Automattic\\Woocommerce_Analytics\\My_Account' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-my-account.php',
     'Automattic\\Woocommerce_Analytics\\Pixel_Builder' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-pixel-builder.php',
+    'Automattic\\Woocommerce_Analytics\\Proxy_Speed_Module' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-proxy-speed-module.php',
     'Automattic\\Woocommerce_Analytics\\Universal' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-universal.php',
     'Automattic\\Woocommerce_Analytics\\WC_Analytics_Tracking' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/class-wc-analytics-tracking.php',
     'Automattic\\Woocommerce_Analytics\\WC_Analytics_Tracking_Proxy' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/API/class-wc-analytics-tracking-proxy.php',
@@ -380,5 +381,4 @@ return array(
     'Jetpack_Tracks_Client' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-client.php',
     'Jetpack_Tracks_Event' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php',
     'Jetpack_XMLRPC_Server' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
-    'WooCommerceAnalyticsProxySpeed' => $baseDir . '/jetpack_vendor/automattic/woocommerce-analytics/src/mu-plugin/woocommerce-analytics-proxy-speed-module-template.php',
 );
