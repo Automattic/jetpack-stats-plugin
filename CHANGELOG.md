@@ -166,6 +166,7 @@ This is an alpha version! The changes listed here are not final.
 - Premium Analytics: Keep Stats under My Home in the admin menu on WordPress.com, where it had dropped below Hosting and Upgrades.
 - Premium Analytics: Keep the days, the Locations tab and the video an old Stats link names when it opens the dashboard.
 - Premium Analytics: Keep the Download CSV action in place while a widget refreshes its data, so the Traffic summary chart no longer jumps when returning to the tab.
+- Premium Analytics: Keep the Download CSV button on report pages while the report refreshes, so it no longer blinks or drops keyboard focus.
 - Premium Analytics: Keep the month in month labels for Japanese, Chinese and Korean sites, which showed a day marker instead (2021年1日 rather than 2021年1月).
 - Premium Analytics: Keep the place of a hidden Stats v2 tab when the tab order is saved.
 - Premium Analytics: Keep the side padding on the longer option of a card's view toggle, such as Posts & pages on the Top pages card.
